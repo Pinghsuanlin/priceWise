@@ -32,7 +32,7 @@ Retailers face the challenge of setting competitive prices while ensuring suffic
 
 ## Project Structure
 <pre><code>
-  retail-optimization-project/ 
+  priceWise/ 
   ├── data/ # Raw and processed datasets 
   ├── notebooks/ # Jupyter notebooks for each stage 
   ├── src/ # Python modules for reuse 
