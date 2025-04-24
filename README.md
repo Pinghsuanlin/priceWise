@@ -31,6 +31,7 @@ Retailers face the challenge of setting competitive prices while ensuring suffic
 ---
 
 ## Project Structure
+priceWise/ ├── data/ # Raw and processed datasets ├── notebooks/ # Jupyter notebooks for each stage ├── src/ # Python modules for reuse ├── reports/ # Summary markdown and generated visuals ├── requirements.txt └── README.md
 
 priceWise/
 ├── data/                  # Raw and processed datasets
