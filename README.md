@@ -31,12 +31,13 @@ Retailers face the challenge of setting competitive prices while ensuring suffic
 ---
 
 ## Project Structure
-<pre><code>```bash retail-optimization-project/ ├── data/ # Raw and processed datasets ├── notebooks/ # Jupyter notebooks for each stage ├── src/ # Python modules for reuse ├── reports/ # Summary markdown and generated visuals ├── requirements.txt └── README.md ```</code></pre>
+<pre><code>
+  retail-optimization-project/ 
+  ├── data/ # Raw and processed datasets 
+  ├── notebooks/ # Jupyter notebooks for each stage 
+  ├── src/ # Python modules for reuse 
+  ├── reports/ # Summary markdown and generated visuals 
+  ├── requirements.txt 
+  └── README.md </code></pre>
 
-priceWise/
-├── data/                  # Raw and processed datasets
-├── notebooks/             # Jupyter notebooks for each stage
-├── src/                   # Python modules for reuse
-├── reports/               # Summary markdown and generated visuals
-├── requirements.txt
-└── README.md
+
