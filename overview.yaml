@@ -1,0 +1,29 @@
+---
+title: "Dynamic Pricing and Inventory Management: End-to-End Price & Inventory Optimization"
+author: "Sherie Lin"
+date: 2025-04-24
+description: "A full-stack data science project simulating retail product pricing and inventory decision-making."
+tags: ["price optimization", "inventory", "retail analytics", "data science", "forecasting"]
+---
+
+
+## How to Run
+
+1. Clone the repository  
+   `git clone https://github.com/Pinghsuanlin/priceWise.git`
+
+2. Set up the environment  
+   `pip install -r requirements.txt`
+
+3. Open notebooks  
+   `jupyter lab notebooks/<nbName>.ipynb`
+
+---
+
+## Datasets Used
+
+- [Retail Price Optimization Dataset](https://www.kaggle.com/datasets/suddharshan/retail-price-optimization)  
+- [Warehouse & Retail Sales](https://www.kaggle.com/datasets/sonawanelalitsunil/warehouse-and-retail-sales)  
+- [ABC-XYZ Classification](https://www.kaggle.com/datasets/shahriarkabir/abc-xyz-inventory-classification-dataset)
+
+---
