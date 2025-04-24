@@ -9,7 +9,6 @@ This project applies data science and operations research techniques to optimize
 Retailers face the challenge of setting competitive prices while ensuring sufficient stock availability. Poor pricing can reduce revenue, and bad inventory planning can lead to lost sales or excess holding costs. This project tackles these core challenges using:
 - Price elasticity modeling
 - Time-series demand forecasting
-- ABC-XYZ inventory classification
 - Inventory policy simulation
 
 ---
